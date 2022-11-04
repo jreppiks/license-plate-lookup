@@ -1,4 +1,7 @@
 #!/bin/bash
+
+###https://www.youtube.com/watch?v=YZKP12tYofo###
+
 USERAGENT='User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.63 Safari/537.36'
 ACCENCODING='Accept-Encoding: gzip, deflate'
 ACCLANG='Accept-Language: en-US,en;q=0.9'
